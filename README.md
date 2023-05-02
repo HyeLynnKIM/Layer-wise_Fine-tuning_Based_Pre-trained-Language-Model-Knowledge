@@ -3,8 +3,9 @@
 
 #### 이 논문은 [KLUE-baseline](https://github.com/KLUE-benchmark/KLUE-baseline) 을 기반하여 실험했습니다.
 
+## File Direcotry
 ```bash
-├── sts_data
+├── data/klue_benchmark
 │   ├── data_augmentation.py
 │   ├── data_preprocessing.py
 │   ├── generate_queries.py
@@ -13,7 +14,16 @@
 │   ├── krx_def.py
 │   ├── masking_utils.py
 │   └── squad_utils.py
-└── Masking-klue-Roberta
+├── klue-baseline
+│   ├── data_augmentation.py
+│   ├── data_preprocessing.py
+│   ├── generate_queries.py
+│   ├── krx_api.py
+│   ├── krx_db_utils.py
+│   ├── krx_def.py
+│   ├── masking_utils.py
+│   └── squad_utils.py
+└── 
     ├── main.py
     ├── multimasking
     │   └── multimasking.py
@@ -22,3 +32,10 @@
 ``` 
 
 # Abstract
+
+
+---
+# Version
+'''
+pip install -r requirements.txt
+'''
