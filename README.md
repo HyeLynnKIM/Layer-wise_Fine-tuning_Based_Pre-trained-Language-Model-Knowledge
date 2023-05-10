@@ -55,6 +55,11 @@
 
 
 ---
+# Model
+![image](https://github.com/HyeLynnKIM/Layer-wise_Fine-tuning_Based_Pre-trained-Language-Model-Knowledge/assets/64192139/2ca5bc54-3755-4485-b0bf-37d180588b01)
+####[그림 1] 모델 학습 구조도 (MRc 기준)
+
+---
 # Version
 ```bash
 pip install -r requirements.txt
