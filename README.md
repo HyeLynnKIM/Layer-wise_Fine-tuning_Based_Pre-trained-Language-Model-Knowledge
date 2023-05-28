@@ -52,7 +52,8 @@
 ``` 
 
 # Abstract
-
+Pre-trained language models make it easier to perform a variety of natural language processing tasks. Typically, the model is further trained and used through a task-specific fine-tuning process, and due to the structure of the pre-trained language model, training occurs through the interaction of multiple deep learning layers. In order to reduce the gap between adjacent layers, traditional models refine the model only for that task when performing any one task.
+In this paper, we propose a new paradigm for this traditional training approach. Previous studies has shown that higher ans lower layers within a model can play different roles as the model trains data. Based on this, we propose a model learning approach that injects morphological information into lower layers and then fine-tunes semantic tasks based on the injected information. In this study, we found that the proposed method improved performance on three tasks in the KLUE benchmark: MRC, NLI, and STS. The methodology presented can provide more flexible insights for fine-tuning, and further performance gains can be expected through techniques to handle the injected information more efficiently.
 
 ---
 # Model
