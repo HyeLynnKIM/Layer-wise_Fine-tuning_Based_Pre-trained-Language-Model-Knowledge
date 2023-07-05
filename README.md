@@ -57,10 +57,18 @@ In this paper, we propose a new paradigm for this traditional training approach.
 
 ---
 # Model
-<img src="https://github.com/HyeLynnKIM/Layer-wise_Fine-tuning_Based_Pre-trained-Language-Model-Knowledge/assets/64192139/2ca5bc54-3755-4485-b0bf-37d180588b01" width=70%>
+<img src="https://github.com/HyeLynnKIM/Layer-wise_Fine-tuning_Based_Pre-trained-Language-Model-Knowledge/assets/64192139/2ca5bc54-3755-4485-b0bf-37d180588b01" width=90%>
 
 #### [그림 1] 모델 학습 구조도 (MRC 기준)
+---
 
+# Experiments
+## Experiments Setting
+|Task|MRC|NLI|STS|NER|RE|TC|
+|---|---|---|---|---|---|---|
+|epoch|3|3|3|3|3|3|
+|batch|4|32|32|32|32|32|
+|leraning_rate|3e-5|5e-5|5e-5|5e-5|5e-5|5e-5|
 ---
 # Version
 ```bash
