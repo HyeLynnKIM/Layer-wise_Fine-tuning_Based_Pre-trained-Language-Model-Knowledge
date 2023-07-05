@@ -67,7 +67,7 @@ In this paper, we propose a new paradigm for this traditional training approach.
 |Task|MRC|NLI|STS|NER|RE|TC|
 |---|---|---|---|---|---|---|
 |batch|61.94±0.29<br>/67.94±0.31|81.71±0.41|82.52±0.55|83.22±0.18<br>/90.81±0.04|66.04±0.38<br>/68.95±0.62|86.71±0.29|
-|leraning_rate|62.77±0.28/68.39±0.12|82.54±0.32|83.60±0.31|83.13±0.07<br>/90.89±0.08|65.33±0.58<br>/68.28±0.62|86.75±0.05|
+|leraning_rate|62.77±0.28<br>/68.39±0.12|82.54±0.32|83.60±0.31|83.13±0.07<br>/90.89±0.08|65.33±0.58<br>/68.28±0.62|86.75±0.05|
 
 ## Experiments Setting
 |Task|MRC|NLI|STS|NER|RE|TC|
