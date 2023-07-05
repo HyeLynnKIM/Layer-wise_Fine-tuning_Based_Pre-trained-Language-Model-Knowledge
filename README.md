@@ -57,7 +57,7 @@ In this paper, we propose a new paradigm for this traditional training approach.
 
 ---
 # Model
-![image](https://github.com/HyeLynnKIM/Layer-wise_Fine-tuning_Based_Pre-trained-Language-Model-Knowledge/assets/64192139/2ca5bc54-3755-4485-b0bf-37d180588b01)
+<img src="https://github.com/HyeLynnKIM/Layer-wise_Fine-tuning_Based_Pre-trained-Language-Model-Knowledge/assets/64192139/2ca5bc54-3755-4485-b0bf-37d180588b01" width=40%>
 
 #### [그림 1] 모델 학습 구조도 (MRC 기준)
 
